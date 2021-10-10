@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: Kunal
+    Date: 2020-12-16    Time:13:21:43.996766
+
+S.N.		Bookname		Cost
+2		Percy Jackson		$2.9
+					Fine: $4
+					Total: $6.9

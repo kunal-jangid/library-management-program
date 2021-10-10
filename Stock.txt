@@ -1,0 +1,3 @@
+Brief History of Time,Stephen Hawkings,14,$1.0
+Percy Jackson,Rick Riordan,29,$2.9
+Harry Potter,Jk Rowling,30,$2.9
